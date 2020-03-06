@@ -15,7 +15,7 @@
   - Output: nothing.
 
 ## Be careful...
-Though using functions in this library is completely harmless and consume little cpu resoource, not telling users that the program sometimes does some meaningless calculation or compute inefficiently may result in a criminal prosecution as the program may be against users' intention.
+Though functions in this library are completely harmless and consume little cpu resoource, not telling users that the program sometimes does some meaningless calculation or compute inefficiently may result in a criminal prosecution as the program may be against users' intention.
 
 ## License
 
