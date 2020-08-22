@@ -3,14 +3,17 @@
 ## Reference
 
 - `function a()`
+  - Description: Does some meaningless caluculation.
   - Input: nothing.
   - Output: nothing.
 
 - `function b()`
+  - Description: Does some meaningless caluculation.
   - Input: nothing.
   - Output: nothing.
 
 - `function c()`
+  - Description: Does some meaningless caluculation.
   - Input: nothing.
   - Output: nothing.
 
